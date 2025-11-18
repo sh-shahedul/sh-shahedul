@@ -14,7 +14,15 @@ I enjoy working across both frontend and backend — from creating smooth UI com
 Currently improving my skills in React, Node.js, Express, MongoDB, and exploring Next.js for building high-performance applications.  
 I love learning new tools, solving real-world problems, and turning ideas into full-stack applications.
 
-
+## 📫 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/sh-shahedul/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/sh_shahedul" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/sh.shahedul/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/shahedulhoquee/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="mailto:shahedulhoque2003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="tel:+8801642282064" target="_blank"><img src="https://img.shields.io/badge/Phone-01642282064-green?style=for-the-badge&logo=call&logoColor=white"/></a>
+</p>
 
 
 
