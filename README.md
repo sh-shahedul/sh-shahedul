@@ -14,6 +14,21 @@ I enjoy working across both frontend and backend — from creating smooth UI com
 Currently improving my skills in React, Node.js, Express, MongoDB, and exploring Next.js for building high-performance applications.  
 I love learning new tools, solving real-world problems, and turning ideas into full-stack applications.
 
+
+## 🌟 My Focus Areas
+- 🚀 Building modern, scalable MERN stack applications
+
+- 🎨 Crafting responsive UI with React & Tailwind CSS
+
+- 🔌 Integrating APIs, authentication & backend services using Node.js & Express.js
+
+- 🗄️ Managing data efficiently with MongoDB & Mongoose
+
+- 🤝 Open to collaborate on full-stack MERN projects
+
+
+---
+
 ## 📫 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/sh-shahedul/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -30,32 +45,26 @@ I love learning new tools, solving real-world problems, and turning ideas into f
 <!--- technology --->
 ## <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="35"><b> TECHNOLOGY STACK:</b>
 
-
-
-
-
-
-
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,c,cpp,)](https://github.com/touhidcodes)
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,c,cpp,)](https://github.com/sh-shahedul)
 
 ### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/touhidcodes)
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/sh-shahedul)
 
 ### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express)](https://github.com/touhidcodes)
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express)](https://github.com/sh-shahedul)
 
 ### Database & Model:
-[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql)](https://github.com/touhidcodes)
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql)](https://github.com/sh-shahedul)
 
 ### Deployment Platform:
-[![Deployment Platform](https://skillicons.dev/icons?i=netlify,firebase,vercel,cloudflare)](https://github.com/touhidcodes)
+[![Deployment Platform](https://skillicons.dev/icons?i=netlify,firebase,vercel,cloudflare)](https://github.com/sh-shahedul)
 
 ### Design & Graphics:
-[![Design & Graphics](https://skillicons.dev/icons?i=figma,ps)](https://github.com/touhidcodes)
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ps)](https://github.com/sh-shahedul)
 
 ### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,git,github,vscode,postman,discord,gmail,npm,vite)](https://github.com/touhidcodes)
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,git,github,vscode,postman,discord,gmail,npm,vite)](https://github.com/sh-shahedul)
 
 <br/>
 
