@@ -22,7 +22,7 @@ I love learning new tools, solving real-world problems, and turning ideas into f
 
 - 🔌 Integrating APIs, authentication & backend services using Node.js & Express.js
 
-- 🗄️ Managing data efficiently with MongoDB & Mongoose
+- 🗄️ Managing data efficiently with MongoDB
 
 - 🤝 Open to collaborate on full-stack MERN projects
 
