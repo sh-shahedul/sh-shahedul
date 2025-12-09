@@ -10,8 +10,7 @@
 
 ## 📝 About Me
 I’m a passionate MERN Stack Developer focused on building clean, modern, and user-friendly web applications.  
-I enjoy working across both frontend and backend — from creating smooth UI components to developing powerful and efficient REST APIs.  
-Currently improving my skills in React, Node.js, Express, MongoDB, and exploring Next.js for building high-performance applications.  
+I enjoy working across both frontend and backend — from creating smooth UI components to developing powerful and efficient REST APIs.Currently improving my skills in React, Node.js, Express, MongoDB, and exploring Next.js for building high-performance applications.  
 I love learning new tools, solving real-world problems, and turning ideas into full-stack applications.
 
 
