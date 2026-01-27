@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://i.ibb.co/d0hCwhN8/bann.png" alt="Banner" width="100%" /> 
+   <img src="https://i.ibb.co/dhQz1Hs/Teal-and-Black-Modern-Programmer-New-Linked-In-Banner-3.png" alt="Banner" width="100%" /> 
 </p>
 
 <p align="center">
